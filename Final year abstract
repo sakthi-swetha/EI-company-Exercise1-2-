@@ -1,0 +1,10 @@
+Project title: Silent SOS: A Real-Time Hand Gesture-Based Emergency Alert System for the Speech and Mobility-Impaired
+
+
+Abstract: 
+  Silent SOS is a real-time hand gesture-based emergency alert system designed for the Deaf,
+Hard of Hearing (DHH), and speech/mobility-impaired communities. The system recognizes 
+predefined emergency gestures from ASL, ISL, and BSL with high accuracy, even in diverse environments. 
+Detected gestures instantly trigger multi-modal alerts—such as alarms, SMS, email, and visual
+notifications—ensuring timely assistance. This lightweight, scalable solution enhances safety, 
+inclusivity, and rapid emergency response for marginalized communities.
